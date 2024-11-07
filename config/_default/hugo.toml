@@ -2,9 +2,11 @@
 # Refer to the theme docs for more details about each of these parameters.
 # https://blowfish.page/docs/getting-started/
 
-# theme = "blowfish" # UNCOMMENT THIS LINE
-# baseURL = "https://your_domain.com/"
+theme = "blowfish" # UNCOMMENT THIS LINE
+baseURL = "https://rootrim.github.io/writing-site-project"
+languageCode = "en"
 defaultContentLanguage = "en"
+title = "Writing Blog"
 
 # pluralizeListTitles = "true" # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles
 
@@ -12,8 +14,8 @@ enableRobotsTXT = true
 paginate = 10
 summaryLength = 0
 
-buildDrafts = false
-buildFuture = false
+buildDrafts = true
+buildFuture = true
 
 enableEmoji = true
 
