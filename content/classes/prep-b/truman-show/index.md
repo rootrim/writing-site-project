@@ -3,10 +3,10 @@ date = '2024-11-08T22:04:25+03:00'
 draft = false
 tags = [ "homework" ]
 title = 'The Truman Show'
-layout = 'homework'
+showAuthor = true
+author= "rootrim"
+showAuthorsBadges = false
 +++
-
-# The Truman Show
 
 ## Background
 
@@ -38,5 +38,5 @@ of today's problems like private life and its protection.
 
 I want to finish this text with the most iconic quotes from the movie.
 
-> "...in case I don't see ya, good afternoon, good evening, and good night!"
+> "...in case I don't see ya, good afternoon, good evening, and good night!"  
 > ~Truman Burbank

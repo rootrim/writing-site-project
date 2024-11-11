@@ -14,8 +14,8 @@ enableRobotsTXT = true
 paginate = 10
 summaryLength = 0
 
-buildDrafts = true
-buildFuture = true
+buildDrafts = false 
+buildFuture = false 
 
 enableEmoji = true
 
@@ -32,7 +32,7 @@ enableEmoji = true
 
 [sitemap]
   changefreq = 'daily'
-  filename = 'sitemap.xml'
+  filename = 'feeds.xml'
   priority = 0.5
 
 [outputs]

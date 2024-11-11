@@ -1,0 +1,8 @@
+{
+    "name": "rootrim",
+    "image" : "resources/profiles/rootrim.png",
+    "bio": "Big brother is watching you!",
+    "social": [
+        { "github": "https://github.com/rootrim" }
+    ]
+}

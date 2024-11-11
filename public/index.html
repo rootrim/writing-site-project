@@ -146,7 +146,11 @@
   </div>
   
   
-  <div style="padding-left:0;padding-right:0;padding-top:2px;padding-bottom:3px"
+  <div class="min-h-[148px]"></div>
+<div class="fixed inset-x-0 pl-[24px] pr-[24px]" style="z-index:100">
+  <div id="menu-blur" class="absolute opacity-0 inset-x-0 top-0 h-full single_hero_background nozoom backdrop-blur-2xl shadow-2xl"></div>
+  <div class="relative max-w-[64rem] ml-auto mr-auto">
+    <div style="padding-left:0;padding-right:0;padding-top:2px;padding-bottom:3px"
     class="main-menu flex items-center justify-between px-4 py-6 sm:px-6 md:justify-start space-x-3">
     
     <div class="flex flex-1 items-center justify-between">
@@ -484,6 +488,26 @@
 
 
 
+<script>
+    (function () {
+        var $mainmenu = $('.main-menu');
+        var path = window.location.pathname;
+        $mainmenu.find('a[href="' + path + '"]').each(function (i, e) {
+            $(e).children('p').addClass('active');
+        });
+    })();
+</script>
+
+
+  </div>
+</div>
+<script>
+  window.addEventListener('scroll', function (e) {
+    var scroll = window.pageYOffset || document.documentElement.scrollTop || document.body.scrollTop || 0;
+    var background_blur = document.getElementById('menu-blur');
+    background_blur.style.opacity = (scroll / 300);
+  });
+</script>
 
   
   <div class="relative flex flex-col grow">
@@ -500,19 +524,15 @@
                 <div class="fixed inset-x-0 top-0" style="z-index:-10">
                     
                     
-                    
                         
                             
                         
                     
                     
-                    <img class="w-full h-[1000px] object-cover m-0 nozoom" src="/writing-site-project/img/trumanSigma.jpg" role="presentation">
-                    <div
-                        class="absolute inset-0 h-[1000px] bg-gradient-to-t from-neutral dark:from-neutral-800 to-transparent mix-blend-normal">
-                    </div>
-                    <div
-                        class="opacity-60 absolute inset-0 h-[1000px] bg-gradient-to-t from-neutral dark:from-neutral-800 to-neutral-100 dark:to-neutral-800 mix-blend-normal">
-                    </div>
+                        
+                            
+                        
+                    
                     
                 </div>
                 <div class="relative px-1 py-1 flex flex-col items-center justify-center text-center">
@@ -564,6 +584,10 @@ How are you? Fine sank you!</p>
   <a href="/writing-site-project/classes/prep-b/truman-show/" class="min-w-full">
     
     <div class="min-h-full border border-neutral-200 dark:border-neutral-700 border-2 rounded overflow-hidden shadow-2xl relative">
+        
+        <div class="w-full thumbnail_card nozoom" style="background-image:url(/writing-site-project/classes/prep-b/truman-show/featured_hu12272107242530841258.jpg);"></div>
+        
+      
 
       <div class="px-6 py-4">
 
@@ -612,7 +636,7 @@ How are you? Fine sank you!</p>
 <div class="flex flex-row flex-wrap items-center">
   
   
-  <time datetime="2024-11-08T22:04:25&#43;03:00">8 November 2024</time><span class="px-2 text-primary-500">&middot;</span><span>214 words</span><span class="px-2 text-primary-500">&middot;</span><span title="Reading time">2 mins</span>
+  <time datetime="2024-11-08T22:04:25&#43;03:00">8 November 2024</time><span class="px-2 text-primary-500">&middot;</span><span>210 words</span><span class="px-2 text-primary-500">&middot;</span><span title="Reading time">1 min</span>
   
 
   
@@ -628,6 +652,10 @@ How are you? Fine sank you!</p>
 
         </div>
 
+        
+        <div class="py-1 prose dark:prose-invert">
+          
+        </div>
         
       </div>
       <div class="px-6 pt-4 pb-2">
@@ -715,6 +743,10 @@ How are you? Fine sank you!</p>
         </div>
 
         
+        <div class="py-1 prose dark:prose-invert">
+          
+        </div>
+        
       </div>
       <div class="px-6 pt-4 pb-2">
 
@@ -726,6 +758,18 @@ How are you? Fine sank you!</p>
 </section>
 
 
+
+
+
+
+<div class="mt-10 flex justify-center">
+  <a href="posts">
+    <button
+      class="bg-transparent hover:text-primary-500 prose dark:prose-invert font-semibold hover:text-white py-2 px-4 border border-primary-500 hover:border-transparent rounded">
+      Show More
+    </button>
+  </a>
+</div>
 
 
 
