@@ -19,7 +19,7 @@ replyByEmail = false
 
 disableImageOptimization = false
 
-defaultBackgroundImage = "image.jpg" # used as default for background images 
+defaultBackgroundImage = "trumanSigma.jpg" # used as default for background images 
 # defaultFeaturedImage = "IMAGE.jpg" # used as default for featured images in all articles
 
 highlightCurrentMenuArea = true
@@ -38,7 +38,7 @@ highlightCurrentMenuArea = true
 
 [homepage]
   layout = "background" # valid options: page, profile, hero, card, background, custom
-  homepageImage = "IMAGE.jpg" # used in: hero, and card
+  homepageImage = "trumanSigma.jpg" # used in: hero, and card
   showRecent = true
   showRecentItems = 6
   showMoreLink = true
