@@ -21,6 +21,11 @@
   weight = 30
 
 [[main]]
+  name = "The Impostor in Among Us"
+  pageRef = "impostor"
+  weight = 39
+
+[[main]]
   name  = "Classes"
   pageRef = "classes"
   weight = 40
