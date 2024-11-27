@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Writing</title>
+    <link>http://localhost:1313/writing-site-project/</link>
+    <description>Recent content on Writing</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 </copyright>
+    <lastBuildDate>Sun, 17 Nov 2024 23:39:09 +0300</lastBuildDate><atom:link href="http://localhost:1313/writing-site-project/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Visiting Morioh</title>
+      <link>http://localhost:1313/writing-site-project/classes/prep-b/visiting-morioh/</link>
+      <pubDate>Sun, 17 Nov 2024 23:39:09 +0300</pubDate>
+      
+      <guid>http://localhost:1313/writing-site-project/classes/prep-b/visiting-morioh/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/writing-site-project/classes/prep-b/visiting-morioh/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>The Truman Show</title>
+      <link>http://localhost:1313/writing-site-project/classes/prep-b/truman-show/</link>
+      <pubDate>Fri, 08 Nov 2024 22:04:25 +0300</pubDate>
+      
+      <guid>http://localhost:1313/writing-site-project/classes/prep-b/truman-show/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/writing-site-project/classes/prep-b/truman-show/featured.jpg" />
+    </item>
+    
+  </channel>
+</rss>
