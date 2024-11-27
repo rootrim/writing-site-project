@@ -1,8 +1,9 @@
 {
-    "name": "rootrim",
-    "image" : "resources/profiles/rootrim.png",
-    "bio": "Big brother is watching you!",
-    "social": [
-        { "github": "https://github.com/rootrim" }
-    ]
+  "name": "rootrim",
+  "image": "img/rootrim.png",
+  "bio": "Big brother is watching you!",
+  "social": [
+    { "email": "mailto:omuaz01@gmail.com" }
+    { "github": "https://github.com/rootrim" }
+  ]
 }
