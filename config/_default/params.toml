@@ -1,4 +1,4 @@
-# -- Theme Options --
+9# -- Theme Options --
 # These options control how the theme functions and allow you to
 # customise the display of your website.
 #
@@ -38,7 +38,7 @@ highlightCurrentMenuArea = true
 
 [homepage]
   layout = "background" # valid options: page, profile, hero, card, background, custom
-  homepageImage = "img/basiktofas.jpg" # used in: hero, and card
+  homepageImage = "assets/img/Neon-Genesis-Evangelion-Wallpaper-4K-32559.jpg" # used in: hero, and card
   showRecent = true
   showRecentItems = 6
   showMoreLink = true
