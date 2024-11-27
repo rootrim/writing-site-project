@@ -2,6 +2,6 @@
 
 There is just three prep classes on our school and thoose are:
 
-- Prep-A: The forbidden one...
+- Prep-A: Linium's Home...
 - Prep-B: The Kendirly's home.
-- Prep-C: What the sigma?
+- Prep-C: HaQ's class
