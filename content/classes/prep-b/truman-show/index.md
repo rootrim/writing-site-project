@@ -1,38 +1,38 @@
+
 +++
 date = '2024-11-08T22:04:25+03:00'
 draft = false
 tags = [ "homework" ]
 title = 'The Truman Show'
 showAuthor = true
+author= "rootrim"
+showAuthorsBadges = false
 +++
 
-Social media harms our attention span, just like it harms many
-other things in our lives. Today, there are 5.22 billion social
-media users worldwide. On average, a social media user spends 2
-hours and 19 minutes on social media every day. However, this is
-not just time spent for fun. It also trains our brains to need
-constant stimulation, making it harder to focus and think deeply.
+Background
+What if your life is a soap opera? The Truman Show is all about this.
+The Truman Show written by Andrew Niccol, directed by Peter Weir and starring
+Jim Carrey as Truman Burbank.
 
-Social media shows people different emotions in a very short time.
-A person might watch a funny video one moment and see a sad or
-angry post right after. These fast emotional changes make the brain
-less patient and lower attention span. Over time, people also become
-less emotional because they get used to these quick changes.
+Plot
+The film shows us Truman Burbank and his fake life in a reality show named
+"The Truman Show". This show films the whole life of Truman from his birth 7/24
+live and Truman doesn't know his life is a lie since his birth.
+But on a normal day he sees his father whom he thought was dead and
+after that he starts to doubt about his life.
 
-Statistics show that since 2004, the average attention span has
-shrunk almost three times. In the past, people could read long texts,
-focus on one topic, and think deeply for longer periods. But now,
-because of fast content consumption, it is more difficult to read
-long articles, stay focused, and work on complex subjects.
+My Views
+I think Jim Carrey is the chosen one for the Truman Burbank role, he fits in
+absolutely perfect, the soundtrack is good enough for the movie and the storyline
+is as gripping as my father's BBQ parties. The Movie has very good quotes and
+clips around the internet.
 
-This problem also affects education, work, and social life. Research
-shows that people addicted to social media have lower work efficiency,
-struggle to learn new things, and are less attentive in face-to-face
-communication. In today’s world, meaningful communication and deep
-thinking are becoming more important, but social media is making
-these skills weaker.
+Suggestions
+For me The Truman Show is a "Must Watch" movie for everyone because
+of today's problems like private life and its protection.
 
-To solve this issue, digital detox, conscious social media use, and
-focus techniques are important. Otherwise, we may create a generation
-that cannot concentrate, is satisfied with only short content, and
-loses deep thinking skills.
+Sayonara
+I want to finish this text with the most iconic quotes from the movie.
+
+"...in case I don't see ya, good afternoon, good evening, and good night!"
+~Truman Burbank
