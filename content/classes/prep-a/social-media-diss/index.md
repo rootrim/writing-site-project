@@ -3,9 +3,6 @@ date = '2025-02-07T22:04:25+03:00'
 draft = false
 tags = [ "homework" ]
 title = "Social Media Harms"
-showAuthor = true
-author= "linihub"
-showAuthorsBadges = false
 +++
 
 Social media harms our attention span, just like it harms many
